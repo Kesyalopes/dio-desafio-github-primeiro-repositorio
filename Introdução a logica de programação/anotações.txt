@@ -1,0 +1,18 @@
+# Entendendo o que é a lógica
+
+- é mais importante você conseguir resolver o problema do que entender o código
+- programar é resolver problemas
+- primeiro a lógica depois os códigos
+- entender as habilidades que precisa para resolver um devido problema
+- matemática é muito importante
+- procurar simplificar as resoluções dos problemas
+- sequência de atos
+- Lógica de programação significa apenas contextualizar a lógica na programação de computadores, buscando a melhor sequência de ações para solucionar um problema”
+- metacognição → pensar como você pensa
+- resolver antes no papel
+- pegar todas as informações, resolver e criar um raciocínio
+- vê se da para simplificar
+- abstraindo → é a habilidade de concretar nos aspectos essenciais de uEntendendo o que é a lógicam contexto qualquer, ignorando características menos importantes ou acidentais”
+- um software é resolvido por partes
+- ser pesquisador é uma habilidade que um bom programador deve ter
+- tentar simplificar o problema
